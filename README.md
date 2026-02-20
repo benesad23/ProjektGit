@@ -7,3 +7,6 @@
     }
 
 *for it to work, you need to put your lcd display in grove 1 on pi pico w*
+
+
+asd
